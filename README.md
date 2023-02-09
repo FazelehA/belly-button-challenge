@@ -5,7 +5,8 @@ This challenge looks at buildig an interactive dashboard to explore the Belly Bu
 # File Organization and Structure
 
 Located in the parent directory are two folders and the index.html file.
-The data folder contains the samples.json file as a reference.
-The js folder contains a javascript file app.js that was used to build the dashboard.
+
+* The data folder contains the samples.json file as a reference.
+* The js folder contains a javascript file app.js that was used to build the dashboard.
 
 ![dashboard](https://user-images.githubusercontent.com/114575703/217951980-0c0838cc-e953-4ab7-891f-df8ccf5201dd.jpg)
